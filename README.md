@@ -2,7 +2,7 @@
 Microsoft Graph API Java Code that Utilizes Selenium to Log into Google OneDrive  and Identify if New Files Have been updated 
 
 ## Prerequisites
-Extract the Project Folder that I sent you. INSPECT THE CONTENTS ::The Java Files 
+Extract the Project Folder above. INSPECT THE CONTENTS ::The Java Files 
 ending with extension: .java, oAuth.properties and the pom.xml file
 The below steps will assist you get MS APP ID.  You will need this to be able to insert on
 the app.id variable in oAuth.properties file:  
