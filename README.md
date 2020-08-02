@@ -1,4 +1,4 @@
-# bmutua350-gmail.com
+# Microsoft Graph API Java Code
 Microsoft Graph API Java Code that Utilizes Selenium to Log into Google OneDrive  and Identify if New Files Have been updated 
 
 ## Prerequisites
